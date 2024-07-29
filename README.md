@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Madhuraj9030
 - 👀 I’m interested in learning new tricks in programming
-- 🌱 I’m currently doing my btech 3 rd year and I learned c,c++,Java so far and iam going to plan for python too
 - 💞️ I’m looking for a job Rn 
 - 📫 mail id : madhubabuduggirala@gmail.com
      Linked in: Madhu Babu Duggirala
